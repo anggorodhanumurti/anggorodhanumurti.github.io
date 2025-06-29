@@ -100,10 +100,14 @@ a:hover {
   font-family: "Verdana", sans-serif !important;
 }
 
-/*
+
 .navbar-brand {
-  display: none !important;
-} */
+  /* display: none !important; */
+  line-height: 1.5;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
+  font-size: 1.125rem;
+}
 
 .nav-item img {
   box-shadow: none !important;
