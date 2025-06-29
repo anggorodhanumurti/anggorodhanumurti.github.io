@@ -103,7 +103,7 @@ a:hover {
 /*
 .navbar-brand {
   display: none !important;
-}
+} */
 
 .nav-item img {
   box-shadow: none !important;
@@ -113,7 +113,7 @@ a:hover {
 .nav-item img:hover {
   filter: brightness(150%);
 }
-*/
+
 
 code {
   font-size: 1em !important;
