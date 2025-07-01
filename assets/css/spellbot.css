@@ -3,6 +3,13 @@
   text-align: center;
 }
 
+.hero-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+
 .add-bot {
   background-color: rgb(90, 62, 253);
   border-radius: 3px;
