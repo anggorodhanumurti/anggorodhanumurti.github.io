@@ -20,7 +20,8 @@ layout: null
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
-  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*--header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  --header-font: "Verdana", sans-serif;
   --mid-col: #808080;
 }
 
@@ -712,7 +713,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 3rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
