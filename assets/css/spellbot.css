@@ -10,8 +10,9 @@
   color: rgb(255, 255, 255);
   cursor: pointer;
   font-size: large;
-  font-family: 'Helvetica Neue';
-  font-weight: 200;
+  font-family: 'Open Sans';
+  font-style: medium;
+  /*font-weight: 200;*/
   line-height: 1;
   /*min-height: 32px;*/
   padding: 10px 30px;
