@@ -9,8 +9,8 @@
   border: none;
   color: rgb(255, 255, 255);
   cursor: pointer;
-  font-size: 20px;
-  /*font-family: Verdana;*/
+  font-size: large;
+  font-family: 'Helvetica Neue';
   font-weight: 200;
   line-height: 1;
   /*min-height: 32px;*/
