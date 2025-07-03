@@ -9,9 +9,11 @@
   border: none;
   color: rgb(255, 255, 255);
   cursor: pointer;
-  font-size: large;
-  font-weight: 200;
-  line-height: 1;
+  /*font-size: large;*/
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  /*font-weight: 200;*/
+  /*line-height: 1;*/
   min-height: 32px;
   padding: 10px 30px;
   transition: all 0.3s ease-in-out;
@@ -20,6 +22,25 @@
 
 .add-bot:hover {
   filter: brightness(90%);
+}
+
+.patreon {
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.patreon,
+.patreon:active,
+.patreon:visited,
+.patreon:hover {
+  background-color: rgb(255, 66, 77);
+  color: white;
+}
+
+.patreon:hover {
+  background-color: #e1000d;
+  color: white;
 }
 
 .screenshot {
@@ -167,23 +188,4 @@ code {
   width: 350px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.patreon {
-  padding: 10px 20px;
-  border-radius: 20px;
-  font-size: 15px;
-}
-
-.patreon,
-.patreon:active,
-.patreon:visited,
-.patreon:hover {
-  background-color: rgb(255, 66, 77);
-  color: white;
-}
-
-.patreon:hover {
-  background-color: #e1000d;
-  color: white;
 }
