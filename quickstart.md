@@ -14,9 +14,11 @@ This version uses apk virtualization methode and obfuscated code to ensure secur
 * We dont open source the code at this version.
 * In-game microphone not work but you can use discord instead
 
+<div class="hero">
 <p>
 <a href="#" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a>
 </p>
+</div>
 
 ### External version
 
