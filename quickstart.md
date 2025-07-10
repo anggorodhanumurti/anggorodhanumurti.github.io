@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Quickstart
-subtitle: Get started with themaphack, quick installation guide and usage tutorial
+subtitle: Get started with themaphack, Installation guide and usage tutorial
 ---
 
 ## Quickstart
 
-There are 2 version of `Themaphack` is a Virtual and External
+There are 2 version of **Themaphack** is a Virtual and External
 
 ### Virtual version
 
@@ -16,7 +16,7 @@ This version uses apk virtualization methode and obfuscated code to ensure secur
 * We dont open source the code at this version.
 * In-game microphone not work but you can use discord instead
 
-<a href="#" class="btn btn-lg btn-success"><i class="bi bi-download"></i> Download virtual version</a>
+<a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a>
 
 
 
