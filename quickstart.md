@@ -15,7 +15,7 @@ This version uses apk virtualization methode and obfuscated code to ensure secur
 * In-game microphone not work but you can use discord instead
 
 <p>
-<a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a>
+<a href="#" class="btn btn-success btn-block"><i class="bi bi-download"></i> Download virtual version</a>
 </p>
 
 ### External version
@@ -28,10 +28,5 @@ No encryption nor obfuscated code so you can customize its feature and function 
 * Plug n play, no need to clone apk or redownload data just extract and ready to play
 
 <p>
-<a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download external version</a>
+<a href="#" class="btn btn-success btn-block"><i class="bi bi-download"></i> Download external version</a>
 </p>
-
-<button type="button" class="btn btn-succees btn-block" onclick="location.href='https://github.com/anggorodhanumurti/themaphack?tab=readme-ov-file#quickstart';">Download external version <i class="bi bi-download"></i>
-</button>
-
-
