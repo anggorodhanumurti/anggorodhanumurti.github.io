@@ -31,9 +31,7 @@ No encryption nor obfuscated code so you can customize its feature and function 
 <a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download external version</a>
 </p>
 
-<div class="hero">
-        <button type="button" class="btn btn-succees btn-block" onclick="location.href='https://github.com/anggorodhanumurti/themaphack?tab=readme-ov-file#quickstart';">Download external version <i class="bi bi-download"></i>
-        </button>
-    </div>
+<button type="button" class="btn btn-succees btn-block" onclick="location.href='https://github.com/anggorodhanumurti/themaphack?tab=readme-ov-file#quickstart';">Download external version <i class="bi bi-download"></i>
+</button>
 
 
