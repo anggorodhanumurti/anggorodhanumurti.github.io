@@ -36,7 +36,7 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 <div class="hero"><a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract **zip file that you have downloaded** and install **`NovaLauncher_patch_allstar.apk`**
+1. Extract **zip file that you've downloaded** then install **`NovaLauncher_patch_allstar.apk`**
 
 2. Open `Nova Launcher` click `Start` allow permission for `Nova Launcher` to manage all files
 
