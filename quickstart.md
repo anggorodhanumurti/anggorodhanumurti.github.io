@@ -25,7 +25,7 @@ This version is the outcome of compiling [source code](https://github.com/anggor
 No encrptio nor obfuscated code so you can customize its feature and function to suit your needs.
 
 > [!IMPORTANT]
-> _I am not guarantee your account safety at this version_
+> I am not guarantee your account safety at this version
 
 
 
