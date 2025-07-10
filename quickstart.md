@@ -26,7 +26,7 @@ No encryption nor obfuscated code so you can customize its feature and function 
 * Support in-game microphone
 * Plug n play, no need to clone apk or redownload data just extract and ready to play
 * Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
-* <a href="#"><i class="bi bi-download"> Download external version</i></a>
+<div class="hero"><a href="#"><i class="bi bi-download"> Download external version</i></a></div>
 
 
 
