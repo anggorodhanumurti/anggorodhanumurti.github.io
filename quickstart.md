@@ -12,7 +12,7 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 
 * We dont open source the code at this version.
 * In-game microphone not work but you can use discord instead.
-* Stable and safe, i climb **`Mythic Immortal`** using this version.
+* Stable and safe, i reach **`Immortal`** using this version.
 
 ![screenshot](/assets/img/tmh_vip.jpg)
 
