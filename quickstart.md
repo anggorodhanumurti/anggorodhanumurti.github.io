@@ -10,9 +10,9 @@ There are 2 version of Themaphack is a virtual and external.
 
 This version uses apk virtualization methode and obfuscated code to ensure security between modmenu and game client make it **`more safest and stable (no lag/crash)`**
 
-<div class="hero">
-<a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a>
-</div>
+<center>
+<a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></center>
+
 
 
 * Stable and safe, i reach Mythic Immortal using this version.
