@@ -4,7 +4,7 @@ title: Quickstart
 subtitle: Get started with Themaphack
 ---
 
-There are 2 version of Themaphack is a virtual & external.
+There are 2 version of `Themaphack` with different use cases, the virtual & external version
 
 ## Virtual version
 
@@ -36,11 +36,11 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 <div class="hero"><a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract **zip file that you've downloaded** then install **`NovaLauncher_patch_allstar.apk`**
+1. Extract zip file that you've downloaded then install **`NovaLauncher_patch_allstar.apk`**
 
 2. Open `Nova Launcher` click `Start` allow permission for `Nova Launcher` to manage all files
 
-3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Nova Launcher` by Selecting `Mobile Legends` then click **`Clone`**. At this stage you've successfully installed modmenu but **dont open mlbb** before finishing the step bellow or your account will be banned for sure!
+3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Nova Launcher` by Selecting `Mobile Legends` then click **`Clone`**
 
 4. You must have a key to acces modmenu within `Nova Launcher`. Get a key [here](https://vimeo.com/1095182829/b14412f5f5) use the key for login to modmenu later.
 
