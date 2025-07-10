@@ -4,9 +4,9 @@ title: Quickstart
 subtitle: Get started with themaphack, Installation guide and usage tutorial
 ---
 
-## Quickstart
+## Install & usage
 
-There are 2 version of **Themaphack** is a Virtual and External
+There are 2 version of Themaphack is a virtual and external.
 
 ### Virtual version
 
