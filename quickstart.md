@@ -36,7 +36,7 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 <div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.0-virtual(allstar-64bit)/tmhv2.0_virtual_allstar_64bit.zip" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract zip file that you've downloaded then install **`NovaLauncher_patch_allstar.apk`**
+1. Extract `tmhv2.0_virtual_allstar_64bit.zip` then install `NovaLauncher_patch_allstar.apk`
 
 2. Open `Nova Launcher` click `Start` allow permission for `Nova Launcher` to manage all files
 
