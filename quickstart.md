@@ -26,15 +26,15 @@ No encryption nor obfuscated code so you can customize its feature and function 
 * Support in-game microphone
 * Plug n play, no need to clone apk or redownload data just extract and ready to play
 * Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
-<div class="hero"><a href="#"><i class="bi bi-download"> Download external version</i></a></div>
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip"><i class="bi bi-download"> Download external version</i></a></div>
 
 
 
 ## Installation & usage
 
-We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/themaphack/releases/tag/v2.0-virtual(allstar-64bit)) because it is safer and more stable than the external version.
+We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/themaphack/releases/tag/v2.0-virtual(allstar-64bit)) because it is **`safer and more stable than the external version`**
 
-<div class="hero"><a href="#" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.0-virtual(allstar-64bit)/tmhv2.0_virtual_allstar_64bit.zip" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
 
 1. Extract zip file that you've downloaded then install **`NovaLauncher_patch_allstar.apk`**
 
