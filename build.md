@@ -40,7 +40,7 @@ $ ./compile.sh
 - [libs/arm64-v8a](https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip) for 64bit
 - [libs/armeabi-v7a](https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.2-32bit/tmhv1.1.2-32bit.zip) for 32bit
 
-### Installation for External version
+### Install 
 
 _I assume you're using 64bit Android_
 

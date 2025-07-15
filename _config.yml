@@ -21,8 +21,8 @@ author: "Anggoro Dhanumurti"
 
 navbar-links:
   Quickstart: "quickstart"
-  Get VIP: "#"
   Build: "build"
+  Get VIP: "#"
   FAQ: "#"
   # dropdown nav
   #Resources:
