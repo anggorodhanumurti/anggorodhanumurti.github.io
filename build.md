@@ -11,7 +11,7 @@ We have set up custom [ndk-build](https://github.com/anggorodhanumurti/themaphac
 - Download our custom [ndk-build](https://github.com/anggorodhanumurti/themaphack/releases/tag/ndk_aide_latest) tools
 - Install [Termux](https://termux.dev/en/) on your Android devices or just use your `terminal/cmd` if you build on PC
 
-~~~
+~~~python
 # Update repository Termux
 $ pkg update && pkg upgrade -y
 
@@ -34,8 +34,9 @@ $ git clone https://github.com/anggorodhanumurti/themaphack.git && cd themaphack
 $ ./compile.sh
 ~~~ 
 
-> [!NOTE]
-> Ensure you select the appropriate library based on your device's architecture. If you're not sure you can check your device architecture using [64bit checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) and download our compiled mod so you dont need to build from source.
+{: .box-note}
+**Note:** Ensure you select the appropriate library based on your device's architecture. If you're not sure you can check your device architecture using [64bit checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) and download our compiled mod so you dont need to build from source.
+
 - [libs/arm64-v8a](https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip) for 64bit
 - [libs/armeabi-v7a](https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.2-32bit/tmhv1.1.2-32bit.zip) for 32bit
 
@@ -52,5 +53,6 @@ _I assume you're using 64bit Android_
 
 4. Rename **`libAkSoundEngine2.so`** to **`libAkSoundEngine.bytes`** done TMH is installed succesfully! but before open MLBB you must have a key for login to `TMH` modmenu. Generate key [here](https://t0pgamemurah.xyz/freeKey)
 
-> [!WARNING]
-> Your account is still not safe from banned. So before you open mlbb game make sure you follow [this guide](https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+{: .box-warning}
+**Warning:** Your account is still not safe from banned. So before you open mlbb game make sure you follow [this guide](https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+

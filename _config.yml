@@ -21,14 +21,14 @@ author: "Anggoro Dhanumurti"
 
 navbar-links:
   Quickstart: "quickstart"
+  Get VIP: "#"
+  Build: "build"
+  FAQ: "#"
   # dropdown nav
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Get VIP: "#"
-  Build: "#"
-  FAQ: "#"
-
+  
 ################
 # --- Logo --- #
 ################
