@@ -11,7 +11,7 @@ We have set up custom [ndk-build](https://github.com/anggorodhanumurti/themaphac
 - Download our custom [ndk-build](https://github.com/anggorodhanumurti/themaphack/releases/tag/ndk_aide_latest) tools
 - Install [Termux](https://termux.dev/en/) on your Android devices or just use your `terminal/cmd` if you build on PC
 
-~~~terminal
+~~~
 # Update repository Termux
 $ pkg update && pkg upgrade -y
 
