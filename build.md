@@ -4,7 +4,7 @@ title: Build
 subtitle: How to build Themaphack from source code using Termux
 ---
 
-_An extensive tutorial for building Themaphack using ndk-build within the Termux terminal emulator._
+_An extensive tutorial for building Themaphack using ndk-build within Termux terminal emulator._
 
 ### Prepare
 We have set up custom [ndk-build](https://github.com/anggorodhanumurti/themaphack/releases/tag/ndk_aide_latest) to work on this project or you can download Android ndk at its [official website](https://developer.android.com/ndk/downloads)

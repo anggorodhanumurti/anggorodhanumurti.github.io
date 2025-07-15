@@ -4,7 +4,7 @@ title: Quickstart
 subtitle: Get started with Themaphack
 ---
 
-There are 2 version of `Themaphack` with different use cases, the virtual & external version
+There are 2 version of `Themaphack` with different use cases, the virtual & [external version](https://themaphack.com/build)
 
 ## Virtual version
 
@@ -15,20 +15,6 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 * Stable and safe, i reach **`Immortal`** using this version.
 
 ![screenshot](/assets/img/tmh_vip.jpg)
-
-
-## External version
-
-This version is the outcome of compiling [source code](https://github.com/anggorodhanumurti/themaphack) in a form of `.so files` which is injected into mlbb folder. 
-
-No encryption nor obfuscated code so you can customize its feature and function to suit your needs, **but it's easy to detect**
-
-* Support in-game microphone
-* Plug n play, no need to clone apk or redownload data just extract and ready to play
-* Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
-<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip"><i class="bi bi-download"> Download external version</i></a></div>
-
-
 
 ## Installation & usage
 
@@ -51,4 +37,13 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 After you complete the step above, now you're safe to play MLBB, open `Nova Launcher` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
 
-> enjoy and outplay your enemy ;)
+## External version
+
+This version is the outcome of compiling [source code](https://github.com/anggorodhanumurti/themaphack) in a form of `.so files` which is injected into mlbb folder. 
+
+No encryption nor obfuscated code so you can customize its feature and function to suit your needs, **but it's easy to detect**
+
+* Support in-game microphone
+* Plug n play, no need to clone apk or redownload data just extract and ready to play
+* Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip"><i class="bi bi-download"> Download external version</i></a></div>
