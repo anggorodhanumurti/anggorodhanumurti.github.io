@@ -23,7 +23,7 @@ navbar-links:
   Quickstart: "quickstart"
   Build: "build"
   Get VIP: "#"
-  FAQ: "#"
+  FAQ: "faq"
   # dropdown nav
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
