@@ -4,6 +4,9 @@ title: Build
 subtitle: How to build Themaphack from source code using Termux
 ---
 
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack"><button type="button" class="btn btn-light btn-lg">Open Source <i class="bi-github"></i></button></a>
+</div>
+
 _An extensive tutorial for building Themaphack using ndk-build within Termux terminal emulator._
 
 ### Prepare

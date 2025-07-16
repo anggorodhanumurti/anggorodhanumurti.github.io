@@ -33,13 +33,13 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 5. TMH Virtual version is installed succesfully! 
 
 {: .box-warning}
-**Warning:** but **your account is still not safe from banned**. So before you open mlbb game from `Nova Launcher` make sure you follow this [guide](https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+**but your account is still not safe from banned**. So before you open mlbb game from `Nova Launcher` make sure you follow this [guide](https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
 
 After you complete the step above, now you're safe to play MLBB, open `Nova Launcher` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
 
 ## External version
 
-This version is the outcome of compiling [source code](https://github.com/anggorodhanumurti/themaphack) in a form of `.so files` which is injected into mlbb folder. 
+This version is the outcome of compiling [source code](https://themaphack.com/build) in a form of `.so files` which is injected into mlbb folder. 
 
 No encryption nor obfuscated code so you can customize its feature and function to suit your needs, **but it's easy to detect**
 
