@@ -2,7 +2,7 @@
 layout: page
 title: Get VIP
 custom_css: pricing
-subtitle: Pricing plans and Free trial
+subtitle: Pricing plans and free trial
 ---
 
 <p></p>
