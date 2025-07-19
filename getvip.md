@@ -46,11 +46,11 @@ subtitle: Pricing plans and free trial
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
           <div class="card-header py-3 text-white bg-primary border-primary">
-            <h3 class="my-0 fw-normal">VIP</h3>
+            <h3 class="my-0 fw-normal" id="getvipnow">VIP</h3>
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$10<small class="text-muted fw-light">/mo</small></h1>
-            <ul class="feature-list mt-3 mb-4" id="getvipnow">
+            <ul class="feature-list mt-3 mb-4">
 <li>All feature unlocked</li>
 <li>VIP key for 30 days</li>
 <li>Account safety guaranteed</li>
