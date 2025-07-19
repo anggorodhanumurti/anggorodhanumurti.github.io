@@ -81,3 +81,8 @@ subtitle: Pricing plans and free trial
       </div>
     </div>
   </main>
+<!-- enable this after backend works
+<p class="lead">
+  <strong>Instant key delivery:</strong>  VIP key send automatically after you have made payment
+</p> -->
+
