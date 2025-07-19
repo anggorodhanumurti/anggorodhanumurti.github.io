@@ -59,7 +59,7 @@ subtitle: Pricing plans and free trial
 <li>Panel source code (php)</li>
 <li>24/7 support via Whatsapp</li>
             </ul>
-            <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+            <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
           </div>
         </div>
       </div>
