@@ -50,7 +50,7 @@ subtitle: Pricing plans and free trial
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$10<small class="text-muted fw-light">/mo</small></h1>
-            <ul class="feature-list mt-3 mb-4">
+            <ul class="feature-list mt-3 mb-4" id="getvipnow">
 <li>All feature unlocked</li>
 <li>VIP key for 30 days</li>
 <li>Account safety guaranteed</li>
