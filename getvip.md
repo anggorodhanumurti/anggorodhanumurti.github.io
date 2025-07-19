@@ -26,169 +26,58 @@ subtitle: Pricing plans and free trial
 <main>
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
+        <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
           <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Free</h4>
+            <h3 class="my-0 fw-normal">Starter</h3>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>10 users included</li>
-              <li>2 GB of storage</li>
-              <li>Email support</li>
-              <li>Help center access</li>
+            <h1 class="card-title pricing-card-title">$5<small class="text-muted fw-light">/mo</small></h1>
+            <ul class="feature-list mt-3 mb-4">
+<li>VIP key for 7 days</li>
+<li>Unlock all feature</li>
+<li>Stable mod no bug, crash/lag</li>
+<li>Account safety guaranteed</li>
+<li>Latest unbanned guide</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
+            <button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Pro</h4>
+        <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
+          <div class="card-header py-3 text-white bg-primary border-primary">
+            <h3 class="my-0 fw-normal">VIP</h3>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>20 users included</li>
-              <li>10 GB of storage</li>
-              <li>Priority email support</li>
-              <li>Help center access</li>
+            <h1 class="card-title pricing-card-title">$10<small class="text-muted fw-light">/mo</small></h1>
+            <ul class="feature-list mt-3 mb-4">
+<li>All feature unlocked</li>
+<li>VIP key for 30 days</li>
+<li>Account safety guaranteed</li>
+<li>Stable mod no bug, crash/lag</li>
+<li>Latest unbanned guide</li>
+<li>Panel source code (php)</li>
+<li>24/7 support via Whatsapp</li>
             </ul>
             <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-white bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Enterprise</h4>
+        <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
+          <div class="card-header py-3">
+            <h4 class="my-0 fw-normal">Free</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>30 users included</li>
-              <li>15 GB of storage</li>
-              <li>Phone and email support</li>
-              <li>Help center access</li>
+<li>Basic feature</li>
+<li>Limited usage time</li>
+<li>Stable mod no bug, crash/lag</li>
+<li>Latest unbanned guide</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button>
           </div>
         </div>
       </div>
     </div>
-
-    <h2 class="display-6 text-center mb-4">Compare plans</h2>
-
-    <div class="table-responsive">
-      <table class="table text-center">
-        <thead>
-          <tr>
-            <th style="width: 34%;"></th>
-            <th style="width: 22%;">Free</th>
-            <th style="width: 22%;">Pro</th>
-            <th style="width: 22%;">Enterprise</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row" class="text-start">Public</th>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Private</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-        </tbody>
-
-        <tbody>
-          <tr>
-            <th scope="row" class="text-start">Permissions</th>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Sharing</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Unlimited members</th>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-          <tr>
-            <th scope="row" class="text-start">Extra security</th>
-            <td></td>
-            <td></td>
-            <td><svg class="bi" width="24" height="24"><use xlink:href="#check"/></svg></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
   </main>
-
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-<div class="col">
-<div class="card-header py-3 border-secondary">
-<h2 class="my-0 fw-normal text-white">Starter</h2>
-</div>
-<div class="card-body">
-<h1 class="card-title pricing-card-title">$5<small class="text-muted fw-light">/mo</small></h1>
-<ul class="list-unstyled mt-3 mb-4 feature-list">
-<li>All feature unlocked</li>
-<li>VIP key for 7 days</li>
-<li>Account safety guaranteed</li>
-<li>Stable mod no bug, crash/lag</li>
-<li>Latest unbanned guide</li>
-</ul>
-<button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button>
-    </div>
-  </div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-<div class="col">
-<div class="card mb-4 rounded-3 shadow-sm text-bg-dark border-light">
-<span class="popular-badge">Most Popular</span>
-<div class="card-header py-3 border-secondary">
-<h2 class="my-0 fw-normal text-white">VIP</h2>
-</div>
-<div class="card-body">
-<h1 class="card-title pricing-card-title">$10<small class="text-muted fw-light">/mo</small></h1>
-<ul class="list-unstyled mt-3 mb-4 feature-list">
-<li>All feature unlocked</li>
-<li>Account safety guaranteed</li>
-<li>Stable mod no bug, crash/lag</li>
-<li>Latest unbanned guide</li>
-<li>Panel source code (php)</li>
-<li>24/7 support via Whatsapp</li>
-</ul>
-<button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button>
-</div>
-</div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-<div class="col">
-<div class="card-header py-3 border-secondary">
-<h2 class="my-0 fw-normal text-white">Free</h2>
-</div>
-<div class="card-body">
-<ul class="list-unstyled mt-3 mb-4">
-<li>Limited features</li>
-<li>Limited usage time</li>
-<li>Stable mod no bug, crash/lag</li>
-<li>Unbanned guide</li>
-</ul>
-<button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button>
-    </div>
-  </div>
-</div>
