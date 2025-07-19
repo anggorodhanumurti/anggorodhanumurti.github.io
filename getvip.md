@@ -27,7 +27,7 @@ subtitle: Pricing plans and free trial
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
-          <div class="card-header py-3">
+          <div class="card-header py-3 border-primary">
             <h3 class="my-0 fw-normal">Starter</h3>
           </div>
           <div class="card-body">
@@ -39,7 +39,7 @@ subtitle: Pricing plans and free trial
 <li>Account safety guaranteed</li>
 <li>Latest unbanned guide</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button>
+            <a href="#freetrial"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
           </div>
         </div>
       </div>
@@ -65,8 +65,8 @@ subtitle: Pricing plans and free trial
       </div>
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Free</h4>
+          <div class="card-header py-3 border-primary">
+            <h4 class="my-0 fw-normal" id="freetrial">Free</h4>
           </div>
           <div class="card-body">
             <ul class="list-unstyled mt-3 mb-4">
