@@ -39,7 +39,7 @@ subtitle: Pricing plans and free trial
 <li>Account safety guaranteed</li>
 <li>Latest unbanned guide</li>
             </ul>
-            <a href="#freetrial"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
+            <a href="https://www.patreon.com/checkout/themaphack?rid=26394430"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
           </div>
         </div>
       </div>
@@ -59,7 +59,7 @@ subtitle: Pricing plans and free trial
 <li>Panel source code (php)</li>
 <li>24/7 support via Whatsapp</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+            <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
           </div>
         </div>
       </div>
@@ -75,7 +75,7 @@ subtitle: Pricing plans and free trial
 <li>Stable mod no bug, crash/lag</li>
 <li>Latest unbanned guide</li>
             </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button>
+            <a href="https://themaphack.com/quickstart"><button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button></a>
           </div>
         </div>
       </div>
