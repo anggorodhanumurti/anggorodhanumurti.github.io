@@ -81,8 +81,63 @@ subtitle: Pricing plans and free trial
       </div>
     </div>
   </main>
-<!-- enable this after backend works
-<p class="lead">
-  <strong>Instant key delivery:</strong>  VIP key send automatically after you have made payment
-</p> -->
-
+  
+<!-- testimonial -->
+<h3>
+  Testimonials
+  <small class="text-muted"><br>Users Feedbacks</small>
+</h3>
+<div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"Played total 76 ranked matches with your mod menu only now reached Legend 2 and it is still working without any ban."</p>
+          <div class="testimonial-author">
+            <img src="https://avatars.githubusercontent.com/u/74189868?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Pankaj Gonekar <small class="font-monospace">Vip User</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/22#issuecomment-3082533142">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"This mod i mostly made for my self, finally i achieve Mythic Immortal thanks to this mod."</p>
+          <div class="testimonial-author">
+            <img src="https://avatars.githubusercontent.com/u/50074327?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Anggoro Dhanumurti</h5>
+              <p class="author-title">Author</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"The map hack works very well, with no lag. The drone view operates smoothly."</p>
+          <div class="testimonial-author">
+            <img src="https://avatars.githubusercontent.com/u/84232018?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Duonglexxx <small class="font-monospace">Beta tester</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/5#issuecomment-2961154879">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
