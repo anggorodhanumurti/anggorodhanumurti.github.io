@@ -43,7 +43,7 @@ I made it like that on purpose because features you mentioned above had high ban
 </p>
 Considering that TMH source code is not obfuscated, it will be so easy for antich**t system to detect.
 <p>
-Unless you use <a href="https://www.patreon.com/c/themaphack/membership?">VIP</a> all features you mentioned above is unlocked with latest bypass to avoid detection. Even you can try <a href="https://themaphack.com/quickstart">VIP version for free</a>
+Unless you use <a href="https://themaphack.com/getvip">VIP</a> all features you mentioned above is unlocked with latest bypass to avoid detection. Even you can try <a href="https://themaphack.com/quickstart">VIP version for free</a>
 </p>
 </details>
 
