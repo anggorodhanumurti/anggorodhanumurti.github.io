@@ -33,7 +33,7 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 5. TMH Virtual version is installed succesfully! 
 
 {: .box-warning}
-**WARNING:** Your account is still not safe from banned So before you open mlbb game from `Nova Launcher` make sure you follow this [guide](https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)
+**WARNING:** Your account is still not safe from banned So before you open mlbb game from `Nova Launcher` make sure you follow this [guide](https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform)
 
 After you complete the step above, now you're safe to play MLBB, open `Nova Launcher` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
 

@@ -17,7 +17,7 @@ Why 98% its because the rest 2% is depend on your playstyle and report from othe
 <p>
 Playstyle means your behavior when using mod "dont make it too obvious" it will lead you to report by others player.
 
-As long as you follow <a href="https://www.patreon.com/posts/guide-how-to-not-130259867?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link">this guide</a> consistently your account will be safe.
+As long as you follow <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform">this guide</a> consistently your account will be safe.
 </p>
 </details>
 
@@ -25,7 +25,7 @@ As long as you follow <a href="https://www.patreon.com/posts/guide-how-to-not-13
 <details><summary><b>Why not share bypass guide in public?</b></summary>
 <p>
 Offcourse due to avoid m00nt0n detection.
-The less people knows is better, so keep this <a href="https://www.patreon.com/checkout/themaphack?rid=26019842">valuable </a> info just for yourself
+The less people knows is better, so keep this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform">valuable </a> info just for yourself
 </p>
 </details>
 
