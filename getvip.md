@@ -106,12 +106,12 @@ subtitle: Pricing plans and free trial
     <div class="carousel-item">
       <div class="testimonial-card">
         <div class="testimonial-content">
-          <p class="testimonial-text">"This mod i mostly made for my self, finally i achieve Mythic Immortal thanks to this mod."</p>
+          <p class="testimonial-text">"20 ranked matches and haven't banned yet dang brother the mod is awesome I'm thinking about buying vip rn"</p>
           <div class="testimonial-author">
-            <img src="https://avatars.githubusercontent.com/u/50074327?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <img src="https://gravatar.com/avatar/abc56f078e6a1f8c4eb35531af576776?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
             <div class="author-info">
-              <h5 class="author-name"><br>Anggoro Dhanumurti</h5>
-              <p class="author-title">Author</p>
+              <h5 class="author-name"><br>yourKage <small class="font-monospace">Free trial</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3112595704">Original post from github <i class="bi bi-github"></i></a></p>
             </div>
           </div>
         </div>
