@@ -32,7 +32,13 @@ The less people knows is better, so keep this <a href="https://docs.google.com/f
 {: .box-note}
 <details><summary><b>Why key duration is only for 24 hours ?</b></summary>
 <p>
-Our keygen server has limited resources so by limit duration it will minimize server load
+Our free keygen server has limited resources so by limit duration it will minimize server load.
+<p>
+Unless you use <a href="https://themaphack.com/getvip">VIP </a> version, key duration will remain for 30 days no need to generate key each time you log in to the game.
+<p>
+Because we use dedicated server for VIP users.
+</p>
+</p>
 </p>
 </details>
 
