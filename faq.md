@@ -30,7 +30,7 @@ The less people knows is better, so keep this <a href="https://docs.google.com/f
 </details>
 
 {: .box-note}
-<details><summary><b>Why key duration is only for 24 hours ?</b></summary>
+<details><summary><b>Why free key duration is limited?</b></summary>
 <p>
 Our free keygen server has limited resources so by limit duration it will minimize server load.
 <p>
