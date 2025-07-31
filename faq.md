@@ -54,6 +54,14 @@ Unless you use <a href="https://themaphack.com/getvip">VIP</a> all features you 
 </details>
 
 {: .box-note}
+<details><summary><b>How to fix Virtual Launcher Error!</b> stuck in loading screen or bug reload on loading screen?</summary>
+<p>
+This problem is usually hapen on free version.</p>
+<a href="https://github.com/anggorodhanumurti/themaphack/issues/26#issuecomment-3138621197">Read this discussion</a> you will figure it out why this problem occur and how to fix it
+
+</details>
+
+{: .box-note}
 <details><summary><b>Can i have web panel source code that you used in your keygen web?</b></summary>
 <p>
 Absolutely yes, <a href="https://www.patreon.com/posts/panel-source-php-134150729">Download here</a>
