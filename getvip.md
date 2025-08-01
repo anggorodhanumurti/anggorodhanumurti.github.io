@@ -97,7 +97,7 @@ subtitle: Pricing plans and free trial
             <img src="https://avatars.githubusercontent.com/u/74189868?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
             <div class="author-info">
               <h5 class="author-name"><br>Pankaj Gonekar <small class="font-monospace">Vip User</small></h5>
-              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/22#issuecomment-3082533142">Original post from github <i class="bi bi-github"></i></a></p>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issue-3238630099">Original post from github <i class="bi bi-github"></i></a></p>
             </div>
           </div>
         </div>
