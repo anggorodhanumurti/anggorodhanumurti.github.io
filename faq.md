@@ -57,7 +57,7 @@ Unless you use <a href="https://themaphack.com/getvip">VIP</a> all features you 
 <details><summary><b>How to fix Virtual Launcher Error!</b> stuck in loading screen or bug reload on loading screen?</summary>
 <p>
 This problem is usually hapen on free version.</p>
-<a href="https://github.com/anggorodhanumurti/themaphack/issues/26#issuecomment-3138621197">Read this discussion</a> you will figure it out why this problem occur and how to fix it
+<a href="https://github.com/anggorodhanumurti/themaphack/issues/26#issuecomment-3138621197">Read this discussion</a> you will figure it out why this problem occur and <a href="https://www.patreon.com/posts/134016990?utm_campaign=postshare_creator&utm_content=android_share">how to fix it?</a>
 
 </details>
 
