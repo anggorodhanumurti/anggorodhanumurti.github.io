@@ -24,7 +24,7 @@ As long as you follow <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6
 {: .box-note}
 <details><summary><b>Why not share bypass guide in public?</b></summary>
 <p>
-Offcourse due to avoid m00nt0n detection.
+Offcourse due to avoid detection.
 The less people knows is better, so keep this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform">valuable </a> info just for yourself
 </p>
 </details>
