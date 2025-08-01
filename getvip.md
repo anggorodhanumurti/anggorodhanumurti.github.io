@@ -106,6 +106,20 @@ subtitle: Pricing plans and free trial
     <div class="carousel-item">
       <div class="testimonial-card">
         <div class="testimonial-content">
+          <p class="testimonial-text">"Thank you for everything. I went from Epic 2 to Mystic in just 1 week. I got quick answers to my questions from the seller. I recommend it 😍😍"</p>
+          <div class="testimonial-author">
+            <img src="https://gravatar.com/avatar/2963c0ba24502f37e480f879289ce643?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>xraufik <small class="font-monospace">Starter member</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3140203553">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
           <p class="testimonial-text">"20 ranked matches and haven't banned yet dang brother the mod is awesome I'm thinking about buying vip rn"</p>
           <div class="testimonial-author">
             <img src="https://gravatar.com/avatar/abc56f078e6a1f8c4eb35531af576776?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
