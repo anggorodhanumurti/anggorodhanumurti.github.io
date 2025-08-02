@@ -28,7 +28,7 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Nova Launcher` by Selecting `Mobile Legends` then click **`Clone`**
 
-4. You must have a key to acces modmenu within `Nova Launcher`. Get a key [here](https://vimeo.com/1095182829/b14412f5f5) use the key for login to modmenu later.
+4. You must have a key to acces modmenu within `Nova Launcher`. Get a key [here](https://www.patreon.com/posts/new-keygen-for-135539746?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) use the key for login to modmenu later.
 
 5. TMH Virtual version is installed succesfully! 
 
