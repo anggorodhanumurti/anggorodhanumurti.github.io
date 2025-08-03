@@ -2,8 +2,81 @@
 layout: page
 title: Get VIP
 custom_css: pricing
-subtitle: Pricing plans and free trial
+subtitle: VIP user feedbacks, pricing plans and free trial
 ---
+<!-- testimonial -->
+<h3>
+  Testimonials
+  <small class="text-muted"><br>Users Feedbacks</small>
+</h3>
+<div id="carouselExample" class="carousel slide">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"Played total 76 ranked matches with your mod menu only now reached Legend 2 and it is still working without any ban."</p>
+          <div class="testimonial-author">
+            <img src="https://avatars.githubusercontent.com/u/74189868?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Pankaj Gonekar <small class="font-monospace">Vip User</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issue-3238630099">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"Thank you for everything. I went from Epic 2 to Mystic in just 1 week. I got quick answers to my questions from the seller. I recommend it 😍😍"</p>
+          <div class="testimonial-author">
+            <img src="https://gravatar.com/avatar/2963c0ba24502f37e480f879289ce643?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>xraufik <small class="font-monospace">Starter member</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3140203553">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"20 ranked matches and haven't banned yet dang brother the mod is awesome I'm thinking about buying vip rn"</p>
+          <div class="testimonial-author">
+            <img src="https://gravatar.com/avatar/abc56f078e6a1f8c4eb35531af576776?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>yourKage <small class="font-monospace">Free trial</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3112595704">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"The map hack works very well, with no lag. The drone view operates smoothly."</p>
+          <div class="testimonial-author">
+            <img src="https://avatars.githubusercontent.com/u/84232018?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Duonglexxx <small class="font-monospace">Beta tester</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/5#issuecomment-2961154879">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
 
 <style>
   .bd-placeholder-img {
@@ -81,77 +154,3 @@ subtitle: Pricing plans and free trial
       </div>
     </div>
   </main>
-  
-<!-- testimonial -->
-<h3>
-  Testimonials
-  <small class="text-muted"><br>Users Feedbacks</small>
-</h3>
-<div id="carouselExample" class="carousel slide">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <div class="testimonial-card">
-        <div class="testimonial-content">
-          <p class="testimonial-text">"Played total 76 ranked matches with your mod menu only now reached Legend 2 and it is still working without any ban."</p>
-          <div class="testimonial-author">
-            <img src="https://avatars.githubusercontent.com/u/74189868?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
-            <div class="author-info">
-              <h5 class="author-name"><br>Pankaj Gonekar <small class="font-monospace">Vip User</small></h5>
-              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issue-3238630099">Original post from github <i class="bi bi-github"></i></a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="testimonial-card">
-        <div class="testimonial-content">
-          <p class="testimonial-text">"Thank you for everything. I went from Epic 2 to Mystic in just 1 week. I got quick answers to my questions from the seller. I recommend it 😍😍"</p>
-          <div class="testimonial-author">
-            <img src="https://gravatar.com/avatar/2963c0ba24502f37e480f879289ce643?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
-            <div class="author-info">
-              <h5 class="author-name"><br>xraufik <small class="font-monospace">Starter member</small></h5>
-              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3140203553">Original post from github <i class="bi bi-github"></i></a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="testimonial-card">
-        <div class="testimonial-content">
-          <p class="testimonial-text">"20 ranked matches and haven't banned yet dang brother the mod is awesome I'm thinking about buying vip rn"</p>
-          <div class="testimonial-author">
-            <img src="https://gravatar.com/avatar/abc56f078e6a1f8c4eb35531af576776?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
-            <div class="author-info">
-              <h5 class="author-name"><br>yourKage <small class="font-monospace">Free trial</small></h5>
-              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3112595704">Original post from github <i class="bi bi-github"></i></a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="testimonial-card">
-        <div class="testimonial-content">
-          <p class="testimonial-text">"The map hack works very well, with no lag. The drone view operates smoothly."</p>
-          <div class="testimonial-author">
-            <img src="https://avatars.githubusercontent.com/u/84232018?s=50&v=4" class="rounded-circle testimonial-image" alt="User">
-            <div class="author-info">
-              <h5 class="author-name"><br>Duonglexxx <small class="font-monospace">Beta tester</small></h5>
-              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/5#issuecomment-2961154879">Original post from github <i class="bi bi-github"></i></a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
