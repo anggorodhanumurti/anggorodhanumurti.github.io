@@ -4,7 +4,7 @@ title: Get VIP
 custom_css: pricing
 subtitle: VIP user feedbacks, pricing plans and free trial
 ---
-<!-- testimonial -->
+<!-- testimonial start -->
 <h3>
   Testimonials
   <small class="text-muted"><br>Users Feedbacks</small>
@@ -77,7 +77,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
+<!-- testimonial end -->
 <style>
   .bd-placeholder-img {
   font-size: 1.125rem;
@@ -93,30 +93,11 @@ subtitle: VIP user feedbacks, pricing plans and free trial
     }
   }
 </style>
-
+<!-- VIP start -->
 <div class="container py-3">
 <header>
 <main>
-    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-      <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
-          <div class="card-header py-3 border-primary">
-            <h3 class="my-0 fw-normal">Starter</h3>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">$5<small class="text-muted fw-light">/mo</small></h1>
-            <ul class="feature-list mt-3 mb-4">
-<li>VIP key for 7 days</li>
-<li>Unlock all feature</li>
-<li>Stable mod no bug, crash/lag</li>
-<li>Account safety guaranteed</li>
-<li>Latest unbanned guide</li>
-            </ul>
-            <a href="https://www.patreon.com/checkout/themaphack?rid=26394430"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
-          </div>
-        </div>
-      </div>
-      <div class="col">
+<div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
           <div class="card-header py-3 text-white bg-primary border-primary">
             <h3 class="my-0 fw-normal" id="getvipnow">VIP</h3>
@@ -136,6 +117,27 @@ subtitle: VIP user feedbacks, pricing plans and free trial
           </div>
         </div>
       </div>
+<!-- Starter start -->      
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
+          <div class="card-header py-3 border-primary">
+            <h3 class="my-0 fw-normal">Starter</h3>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">$5<small class="text-muted fw-light">/mo</small></h1>
+            <ul class="feature-list mt-3 mb-4">
+<li>VIP key for 7 days</li>
+<li>Unlock all feature</li>
+<li>Stable mod no bug, crash/lag</li>
+<li>Account safety guaranteed</li>
+<li>Latest unbanned guide</li>
+            </ul>
+            <a href="https://www.patreon.com/checkout/themaphack?rid=26394430"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
+          </div>
+        </div>
+      </div>
+<!-- Free start -->  
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
           <div class="card-header py-3 border-primary">
