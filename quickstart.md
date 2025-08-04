@@ -44,6 +44,7 @@ This version is the outcome of compiling [source code](https://themaphack.com/bu
 No encryption nor obfuscated code so you can customize its feature and function to suit your needs, **but it's easy to detect**
 
 * Support in-game microphone
+* More likely to get banned, intentionaly made for experienced mods user
 * Plug n play, no need to clone apk or redownload data just extract and ready to play
 * Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
 <div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip"><i class="bi bi-download"> Download external version</i></a></div>
