@@ -22,6 +22,7 @@ author: "Anggoro Dhanumurti"
 navbar-links:
   Quickstart: "quickstart"
   Build: "build"
+  Blog: "blog"
   Get VIP: "getvip"
   FAQ: "faq"
   # dropdown nav
@@ -97,9 +98,9 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
-  vk: false
-  reddit: false
+  linkedin: false
+  vk: true
+  reddit: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer

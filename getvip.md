@@ -97,6 +97,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <div class="container py-3">
 <header>
 <main>
+<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
 <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
           <div class="card-header py-3 text-white bg-primary border-primary">
@@ -118,7 +119,6 @@ subtitle: VIP user feedbacks, pricing plans and free trial
         </div>
       </div>
 <!-- Starter start -->      
-    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
           <div class="card-header py-3 border-primary">

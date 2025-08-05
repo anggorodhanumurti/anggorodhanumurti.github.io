@@ -20,7 +20,7 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 
 We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/themaphack/releases/tag/v2.1-virtual_allstar(64bit)) because it is **`safer and more stable than the external version`**
 
-<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.1-virtual_allstar(64bit)/NovaLauncher_V2.1.zip" class="btn btn-success"><i class="bi bi-download"></i> Download virtual version</a></div>
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.1-virtual_allstar(64bit)/NovaLauncher_V2.1.zip" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
 1. Extract `NovaLauncher_V2.1.zip` then install `NovaLauncher_V2.1.apk`
 
@@ -28,14 +28,22 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Nova Launcher` by Selecting `Mobile Legends` then click **`Clone`**
 
-4. You must have a key to acces modmenu within `Nova Launcher`. Get a key [here](https://www.patreon.com/posts/new-keygen-for-135539746?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link) use the key for login to modmenu later.
+4. You must have a key to acces modmenu within `Nova Launcher` 
+use the key for login to modmenu later.
 
-5. TMH Virtual version is installed succesfully! 
+<p class="text-center">
+<a href="https://www.patreon.com/posts/new-keygen-for-135539746?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link" class="btn btn-primary"> <i class="bi bi-key"></i> Get free key</a></p>
+
+<p class="lead">
+  You have succeesfully installed Nova Launcher
+</p>
 
 {: .box-warning}
-**WARNING:** Your account is still not safe from banned So before you open mlbb game from `Nova Launcher` make sure you follow this [guide](https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform)
+**WARNING:** But your account is still not safe from banned, so before you open MLBB from within **Nova Launcher** make sure you follow our guide bellow
+<p class="text-center">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform" class="btn btn-primary"> <i class="bi bi-bookmark-check-fill"></i> Read this guide</a></p>
 
-After you complete the step above, now you're safe to play MLBB, open `Nova Launcher` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
+After you complete the guide above, now you're safe to play MLBB, open `Nova Launcher` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
 
 ## External version
 
@@ -47,4 +55,6 @@ No encryption nor obfuscated code so you can customize its feature and function 
 * More likely to get banned, intentionaly made for experienced mods user
 * Plug n play, no need to clone apk or redownload data just extract and ready to play
 * Read **INSTALL.txt** inside `tmhv1.1.4-external-64bit.zip` for install instruction
-<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip"><i class="bi bi-download"> Download external version</i></a></div>
+
+<div class="hero">
+<a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip" class="btn btn-primary"><i class="bi bi-download"> Download external version</i></a></div>

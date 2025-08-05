@@ -4,10 +4,9 @@ layout: page
 
 {{ content }}
 
-<!-- 
 {% assign posts = paginator.posts | default: site.posts %}
 
-role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics
+<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
@@ -86,7 +85,6 @@ role="list" needed so that `list-style: none` in Safari doesn't remove the list 
       <div class="blog-tags">
         <span>Tags:</span>
         <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-        <!--
         <ul class="d-inline list-inline" role="list">
           {% for tag in post.tags %}
           <li class="list-inline-item">
@@ -101,6 +99,7 @@ role="list" needed so that `list-style: none` in Safari doesn't remove the list 
   </li>
   {% endfor %}
 </ul>
+
 {% if paginator.total_pages > 1 %}
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
@@ -120,4 +119,4 @@ role="list" needed so that `list-style: none` in Safari doesn't remove the list 
   </li>
   {% endif %}
 </ul>
-{% endif %} -->
+{% endif %}
