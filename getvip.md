@@ -147,7 +147,8 @@ subtitle: VIP user feedbacks, pricing plans and free trial
             <ul class="list-unstyled mt-3 mb-4">
 <li>Basic feature</li>
 <li>Limited usage time</li>
-<li>Stable mod no bug, crash/lag</li>
+<li>Not so stable</li>
+<li>sometimes crash/bug</li>
 <li>Latest unbanned guide</li>
             </ul>
             <a href="https://themaphack.com/quickstart"><button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button></a>
