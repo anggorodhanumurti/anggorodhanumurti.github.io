@@ -18,9 +18,9 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 
 ## Installation & usage
 
-We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/themaphack/releases/tag/v2.1-virtual_allstar(64bit)) because it is **`safer and more stable than the external version`**
+We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/themaphack/releases/tag/v2.2-virtual_allstar(64bit)) because it is **`safer and more stable than the external version`**
 
-<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.1-virtual_allstar(64bit)/NovaLauncher_V2.1.zip" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
+<div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.2-virtual_allstar(64bit)/NovaLauncher_v2.2.zip" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
 1. Extract `NovaLauncher_V2.1.zip` then install `NovaLauncher_V2.1.apk`
 
