@@ -22,7 +22,7 @@ We recommend you to use [`TMH virtual`](https://github.com/anggorodhanumurti/the
 
 <div class="hero"><a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v2.2-virtual_allstar(64bit)/NovaLauncher_v2.2.zip" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract `NovaLauncher_V2.1.zip` then install `NovaLauncher_V2.1.apk`
+1. Extract `NovaLauncher_V2.2.zip` then install `NovaLauncher_V2.2.apk`
 
 2. Open `Nova Launcher` click `Start` allow permission for `Nova Launcher` to manage all files
 
