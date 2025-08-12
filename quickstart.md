@@ -18,7 +18,7 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 
 ## Installation & usage
 
-We recommend you to use [`TMH virtual`](https://www.patreon.com/file?h=136232546&m=514752336) because it is **`safer and more stable than the external version`**
+We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136232546?utm_campaign=postshare_creator&utm_content=android_share) because it is **`safer and more stable than the external version`**
 
 <div class="hero"><a href="https://www.patreon.com/file?h=136232546&m=514752336" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
