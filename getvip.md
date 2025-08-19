@@ -28,6 +28,20 @@ subtitle: VIP user feedbacks, pricing plans and free trial
     <div class="carousel-item">
       <div class="testimonial-card">
         <div class="testimonial-content">
+          <p class="testimonial-text">"This is just amazing. If you asked me what the best mobile legends cheat menu in the world is, this is what I would show you. I advise you all to buy it, you won't regret it."</p>
+          <div class="testimonial-author">
+            <img src="https://gravatar.com/avatar/26b90d61d750aa0d8db1ece83631aa98?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>mlbss0012 <small class="font-monospace">VIP member</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3193482301">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
           <p class="testimonial-text">"Thank you for everything. I went from Epic 2 to Mystic in just 1 week. I got quick answers to my questions from the seller. I recommend it 😍😍"</p>
           <div class="testimonial-author">
             <img src="https://gravatar.com/avatar/2963c0ba24502f37e480f879289ce643?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
