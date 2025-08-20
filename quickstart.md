@@ -20,15 +20,15 @@ Uses apk virtualization and obfuscated code to ensure security between modmenu a
 
 We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share) because it is **`safer and more stable than the external version`**
 
-<div class="hero"><a href="https://www.patreon.com/file?h=136751555&m=517979251" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
+<div class="hero"><a href="https://www.patreon.com/file?h=136751555&m=518896203" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract `MetaV2.6.zip` then install `MetaV2.6.apk`
+1. Extract `MetaV2.5.zip` then install `MetaV2.5.apk`
 
-2. Open `Pandora` click `Start` allow permission for `Pandora Launcher` to manage all files
+2. Open `Meta+ Evolution Space` click `Start` allow permission for `Meta Launcher` to manage all files
 
-3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Pandora Launcher` by Selecting `Mobile Legends` then click **`Clone`**
+3. Makesure you have installed latest mlbb from playstore and downloaded all data 100%. Then add `mlbb` to `Meta Launcher` by Selecting `Mobile Legends` then click **`Clone`**
 
-4. You must have a key to acces modmenu within `Pandora Launcher` 
+4. You must have a key to acces modmenu within `Meta Launcher` 
 use the key for login to modmenu later.
 
 <p class="text-center">
