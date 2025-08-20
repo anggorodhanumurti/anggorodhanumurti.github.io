@@ -32,7 +32,7 @@ We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136751555?
 use the key for login to modmenu later.
 
 <p class="text-center">
-<a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-key"></i> Get free key</a></p>
+<a href="https://www.patreon.com/posts/free-trial-for-136232546" class="btn btn-primary"> <i class="bi bi-key"></i> Get free key</a></p>
 
 <p class="lead">
   You have succeesfully installed Meta Launcher
