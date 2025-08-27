@@ -41,7 +41,7 @@ use the key for login to modmenu later.
 {: .box-warning}
 **WARNING:** But your account is still not safe from banned, so before you open MLBB from within **Meta Launcher** make sure you follow our guide bellow
 <p class="text-center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform" class="btn btn-primary"> <i class="bi bi-bookmark-check-fill"></i> Read this guide</a></p>
+<a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-bookmark-check-fill"></i> Read this guide</a></p>
 
 After you complete the guide above, now you're safe to play MLBB, open `Meta+ Evolution Space` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
 
