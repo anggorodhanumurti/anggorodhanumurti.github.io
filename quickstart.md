@@ -43,7 +43,7 @@ use the key for login to modmenu later.
 <p class="text-center">
 <a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-bookmark-check-fill"></i> Read this guide</a></p>
 
-After you complete the guide above, now you're safe to play MLBB, open `Meta+ Evolution Space` start Mobile Legends, then when modmenu appear paste your `Key`, and click `Login` 
+After you have finished the guide above, now you're safe to play MLBB, open `Meta+ Evolution Space` and start Mobile Legends inside `Meta+ Evolution Space` (which you've cloned before) then when modmenu appear paste your `Key`, and click `Login` 
 
 ## External version
 
