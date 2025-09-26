@@ -7,7 +7,7 @@ subtitle: Get started with Themaphack
 **Themaphack** uses apk virtualization and obfuscated code to ensure security between modmenu and game client make it **`more safe and stable without lag/crash`**
 
 * In-game microphone not work but you can use discord instead.
-* Stable and safe, i reach **`Immortal`** using this version.
+* Stable and safe, i reach **`Immortal`** using this mod.
 * As long as you play safe without being reported your account will 100% safe no baned
 
 ![screenshot](/assets/img/tmh_vip.jpg)

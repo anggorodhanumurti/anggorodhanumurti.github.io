@@ -42,6 +42,20 @@ subtitle: VIP user feedbacks, pricing plans and free trial
     <div class="carousel-item">
       <div class="testimonial-card">
         <div class="testimonial-content">
+          <p class="testimonial-text">"💫💫💫💫 After paying the subscription fee, I immediately received the account, and the support of this program responded every day and every hour and resolved any problems I had. I am very grateful to this team. And I suggest everyone to get this program and use it. After using the program yourself, you will see a very strong result from this program. If there is any problem, just send a message to the support, they will come to your aid at any time, although this program has no problems. And use it safely 🫶❤️GOOD LUCK WARRIORS❤️🫶"</p>
+          <div class="testimonial-author">
+            <img src="https://gravatar.com/avatar/48738f32a8af6ae1aa8ebf70786e9a92?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>milad76ghaderi-art <small class="font-monospace">VIP member</small></h5>
+              <p class="author-title"><a href="https://github.com/anggorodhanumurti/themaphack/issues/24#issuecomment-3333034503">Original post from github <i class="bi bi-github"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
           <p class="testimonial-text">"Thank you for everything. I went from Epic 2 to Mystic in just 1 week. I got quick answers to my questions from the seller. I recommend it 😍😍"</p>
           <div class="testimonial-author">
             <img src="https://gravatar.com/avatar/2963c0ba24502f37e480f879289ce643?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
