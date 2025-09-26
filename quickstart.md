@@ -58,3 +58,7 @@ No encryption nor obfuscated code so you can customize its feature and function 
 
 <div class="hero">
 <a href="https://github.com/anggorodhanumurti/themaphack/releases/download/v1.1.4-external-64bit/tmhv1.1.4-external-64bit.zip" class="btn btn-primary"><i class="bi bi-download"> Download external version</i></a></div>
+
+<!-- uSocial uLock container -->
+<div class="uSocial-uLock" data-lang="en" data-pid="78cc18f6bef2fccbc0b5db850e71a0ee" data-type="uLock" data-social="fb,twi,reddit" data-options="skin_light,style4" data-title="Share to social media to access keygen link" data-type-content="_link" data-text="Free trial key for 3 days (No device limit)" data-link="https://docs.google.com/forms/d/e/1FAIpQLSfXMKiblDNVlrAbJP0leSAxF15slXi1dkt5KnwgZvrXiWpY2A/viewform?usp=header"></div>
+<!-- /uSocial uLock container -->
