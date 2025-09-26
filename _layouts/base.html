@@ -34,6 +34,16 @@ common-js:
   {% include footer.html %}
 
   {% include footer-scripts.html %}
-
+<!-- uSocial uLock script -->
+<script type="text/javascript">
+    !function (a, b, c, d) {
+        if (!a._uLock_init_) {
+            a._uLock_init_ = !0;
+            var e = b.createElement("script"), f = b.getElementsByTagName("body")[0], g = b.getElementsByTagName("head")[0];
+            e.async = !0, e.setAttribute("data-script", 'usocial'), e.src = c + "?" + d, "undefined" == typeof f ? g.appendChild(e) : f.appendChild(e)
+        }
+    }(window, document, "https://usocial.pro/usocial/usocial.ulock.js", "uid=e2d8b96135f94362&v=1.0.0");
+</script>
+<!-- /uSocial uLock script -->
 </body>
 </html>
