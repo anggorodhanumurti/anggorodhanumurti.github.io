@@ -8,7 +8,7 @@ subtitle: Get started with Themaphack
 
 * In-game microphone not work but you can use discord instead.
 * Stable and safe, i reach **`Immortal`** using this mod.
-* As long as you play safe without being reported your account will 100% safe no baned
+* As long as you play safe without being reported your account will 100% safe no banned
 
 ![screenshot](/assets/img/tmh_vip.jpg)
 
