@@ -3,15 +3,14 @@ layout: page
 title: Quickstart
 subtitle: Get started with Themaphack
 ---
-
 **Themaphack** uses apk virtualization and obfuscated code to ensure security between modmenu and game client make it **`more safe and stable without lag/crash`**
 
 * In-game microphone not work but you can use discord instead.
 * Stable and safe, i reach **`Immortal`** using this mod.
-* As long as you play safe without being reported your account will 100% safe no banned
+* As long as you play safe without being reported your account will 100% safe no banned.
 
 ![screenshot](/assets/img/tmh_vip.jpg)
-
+<br>
 ## Installation & usage
 
 We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share) because it is **`safer and more stable than the external version`**
@@ -30,13 +29,21 @@ use the key for login to modmenu later.
 <p class="text-center">
 <a href="https://www.patreon.com/posts/139777550?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-key"></i> Get freetrial key</a></p>
 
+{: .box-success}
 <p class="lead">
-  You have succeesfully installed Meta Launcher
+  You have succeesfully installed Themaphack modmenu
 </p>
+Now open `Meta+ Evolution Space` and start Mobile Legends inside `Meta+ Evolution Space` *which you've cloned before,* then when modmenu appear paste your `Key` and click `Login`
 
-{: .box-warning}
-**WARNING:** But your account is still not safe from banned, so before you open MLBB from within **Meta Launcher** make sure you follow our guide bellow
-<p class="text-center">
-<a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-bookmark-check-fill"></i> Read this guide</a></p>
+## Video Tutorial
+<br>
+<div style="position:relative;aspect-ratio:9/20;">
+      <iframe 
+            loading="lazy" title="Gumlet video player"
+            src="https://play.gumlet.io/embed/68d917a5c3cc2cd876966385?background=false&autoplay=false&loop=true&disableControls=false"
+            style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+          allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;">
+          </iframe>
+    </div>
 
-After you have finished the guide above, now you're safe to play MLBB, open `Meta+ Evolution Space` and start Mobile Legends inside `Meta+ Evolution Space` (which you've cloned before) then when modmenu appear paste your `Key`, and click `Login` 
+Good luck & have fun :)
