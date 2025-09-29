@@ -29,10 +29,11 @@ use the key for login to modmenu later.
 <p class="text-center">
 <a href="https://www.patreon.com/posts/139777550?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-key"></i> Get freetrial key</a></p>
 
-{: .box-success}
+{: .box-note}
 <p class="lead">
-  You have succeesfully installed Themaphack modmenu
+You have successfully installed Themaphack modmenu, dont ferget to <a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share">follow our safety guide</a> to avoid getting banned
 </p>
+
 Now open `Meta+ Evolution Space` and start Mobile Legends inside `Meta+ Evolution Space` *which you've cloned before,* then when modmenu appear paste your `Key` and click `Login`
 
 ## Video Tutorial
