@@ -31,7 +31,7 @@ use the key for login to modmenu later.
 
 {: .box-note}
 <p class="lead">
-You have successfully installed Themaphack modmenu, dont ferget to <a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share">follow our safety guide</a> to avoid getting banned
+You have successfully installed Themaphack modmenu, dont forget to <a href="https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share">follow our safety guide</a> to avoid getting banned
 </p>
 
 Now open `Meta+ Evolution Space` and start Mobile Legends inside `Meta+ Evolution Space` *which you've cloned before,* then when modmenu appear paste your `Key` and click `Login`
