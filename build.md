@@ -57,5 +57,5 @@ _I assume you're using 64bit Android_
 4. Rename **`libAkSoundEngine2.so`** to **`libAkSoundEngine.bytes`** done TMH is installed succesfully! but before open MLBB you must have a key for login to `TMH` modmenu. Generate key [here](https://t0pgamemurah.xyz/freeKey)
 
 {: .box-warning}
-**Warning:** Your account is still not safe from banned. So before you open mlbb game make sure you follow [this guide](https://docs.google.com/forms/d/e/1FAIpQLSc9z_tA6EC6ypZM4oP4Jfc-gqQXQlyVbsMalOlqVTeBttmrYQ/viewform)
+**Warning:** Your account is still not safe from banned. So before you open mlbb game make sure you follow [this guide](https://www.patreon.com/posts/130259867?utm_campaign=postshare_creator&utm_content=android_share)
 
