@@ -178,7 +178,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
             <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
           </div>
         </div>
-      </div><p></p>
+      </div><br>
 <!-- Starter start -->      
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
