@@ -17,7 +17,7 @@ We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136751555?
 
 <div class="hero"><a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-success btn-lg"><i class="bi bi-download"></i> Download virtual version</a></div>
 
-1. Extract `MetaV2.7.zip` then install `MetaV2.7.apk`
+1. Extract `MetaV2.8.zip` then install `MetaV2.8.apk`
 
 2. Open `Meta+ Evolution Space` click `Start` allow permission for `Meta Launcher` to manage all files
 

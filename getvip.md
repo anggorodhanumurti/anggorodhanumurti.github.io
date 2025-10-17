@@ -42,6 +42,34 @@ subtitle: VIP user feedbacks, pricing plans and free trial
     <div class="carousel-item">
       <div class="testimonial-card">
         <div class="testimonial-content">
+          <p class="testimonial-text">"For anybody wondering I have bought VIP, and it is 100% worth it. Big vouch for owner bro its so good. $10 a month you guys need to buy it"</p>
+          <div class="testimonial-author">
+            <img src="/assets/img/cao.png" width="50" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>Cao <small class="font-monospace">VIP member</small></h5>
+              <p class="author-title"><a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">from Patreon comments <i class="bi bi-chat-dots"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
+          <p class="testimonial-text">"it's real bro 100% with anti ban detection"</p>
+          <div class="testimonial-author">
+            <img src="/assets/img/w.png" width="50" class="rounded-circle testimonial-image" alt="User">
+            <div class="author-info">
+              <h5 class="author-name"><br>William Barredo <small class="font-monospace">Free trial</small></h5>
+              <p class="author-title"><a href="https://www.patreon.com/posts/136232546?utm_campaign=postshare_creator&utm_content=android_share">from Patreon comments <i class="bi bi-chat-dots"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="testimonial-card">
+        <div class="testimonial-content">
           <p class="testimonial-text">"💫💫💫💫 After paying the subscription fee, I immediately received the account, and the support of this program responded every day and every hour and resolved any problems I had. I am very grateful to this team. And I suggest everyone to get this program and use it. After using the program yourself, you will see a very strong result from this program. If there is any problem, just send a message to the support, they will come to your aid at any time, although this program has no problems. And use it safely 🫶❤️GOOD LUCK WARRIORS❤️🫶"</p>
           <div class="testimonial-author">
             <img src="https://gravatar.com/avatar/48738f32a8af6ae1aa8ebf70786e9a92?s=50&d=identicon&r=g" class="rounded-circle testimonial-image" alt="User">
@@ -128,38 +156,47 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
 <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
-          <div class="card-header py-3 text-white bg-primary border-primary">
-            <h3 class="my-0 fw-normal" id="getvipnow">VIP</h3>
+        <span class="badge gradient-custom text-white popular-badge px-4 py-2">25% Discount</span>
+        <div class="card-header py-3 text-white bg-primary border-primary">
+            <h3 class="my-0 fw-normal" id="getvipnow">60 days</h3>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$10<small class="text-muted fw-light">/mo</small></h1>
+          <h3 class="text-muted fw-light text-decoration-line-through">$20</h3>
+          <h1 class="card-title pricing-card-title ">$15</h1>
             <ul class="feature-list mt-3 mb-4">
 <li>All feature unlocked</li>
-<li>VIP key for 30 days</li>
+<li>VIP key for 60 days</li>
+<li>Unlock Autoretri feature</li>
 <li>Account safety guaranteed</li>
 <li>Stable mod no bug, crash/lag</li>
 <li>Latest unbanned guide</li>
 <li>No device limit</li>
+<li>Unique VIP key (not sharing)</li>
+<li>Access VIP Patreon content</li>
 <li>24/7 support via Whatsapp</li>
             </ul>
             <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
           </div>
         </div>
-      </div>
+      </div><p></p>
 <!-- Starter start -->      
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
-          <div class="card-header py-3 border-primary">
-            <h3 class="my-0 fw-normal">Starter</h3>
+        <span class="badge gradient-custom text-white popular-badge px-4 py-2">50% Discount</span>
+        <div class="card-header py-3 border-primary">
+            <h3 class="my-0 fw-normal">30 days</h3>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$5<small class="text-muted fw-light">/mo</small></h1>
+          <h3 class="text-muted fw-light text-decoration-line-through">$10</h3>
+          <h1 class="card-title pricing-card-title">$5</h1>
             <ul class="feature-list mt-3 mb-4">
-<li>VIP key for 7 days</li>
+<li>VIP key for 30 days (sharing)</li>
 <li>Unlock all feature</li>
 <li>No device limit</li>
 <li>Stable mod no bug, crash/lag</li>
 <li>Account safety guaranteed</li>
+<li>One time payment</li>
+<li>No recurring fee</li>
 <li>Latest unbanned guide</li>
             </ul>
             <a href="https://www.patreon.com/checkout/themaphack?rid=26394430"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
