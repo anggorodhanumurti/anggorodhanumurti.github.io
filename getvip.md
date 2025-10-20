@@ -199,7 +199,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>No recurring fee</li>
 <li>Latest unbanned guide</li>
             </ul>
-            <a href="https://www.patreon.com/checkout/themaphack?pvid=2469130"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
+            <a href="https://www.patreon.com/posts/139777550?utm_campaign=postshare_creator&utm_content=android_share"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
           </div>
         </div>
       </div>
