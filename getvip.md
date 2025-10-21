@@ -175,7 +175,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>Access VIP Patreon content</li>
 <li>24/7 support via Whatsapp</li>
             </ul>
-            <a href="https://www.patreon.com/checkout/themaphack?rid=26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
+            <a href="https://www.patreon.com/login?ru=https%3A%2F%2Fwww.patreon.com%2Fcheckout%2Fthemaphack%3Frid%3D26019842"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
           </div>
         </div>
       </div><br>
