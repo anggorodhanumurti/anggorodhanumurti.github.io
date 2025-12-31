@@ -27,7 +27,7 @@ We recommend you to use [`TMH virtual`](https://www.patreon.com/posts/136751555?
 use the key for login to modmenu later.
 
 <p class="text-center">
-<a href="https://www.patreon.com/posts/140405690?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-key"></i> Get freetrial key</a></p>
+<a href="https://www.patreon.com/posts/139777550?utm_campaign=postshare_creator&utm_content=android_share" class="btn btn-primary"> <i class="bi bi-key"></i> Get freetrial key</a></p>
 
 {: .box-note}
 <p class="lead">
