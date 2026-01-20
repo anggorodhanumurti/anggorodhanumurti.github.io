@@ -46,13 +46,13 @@ Minimal requirement for this mod is <b>Android 10-15</b> with minimal 4gb ram <b
 {: .box-note}
 <details><summary><b>Can i use voice chat while using this mod?</b></summary>
 <p>
-<b>No</b> in-game voice chat is not work you can use <a href="https://discord.com/">Discord</a> instead</p>
+<b>Yes</b> <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">in-game voice chat is works</a> if you are using rooted android but if your device is not rooted you can use <a href="https://discord.com/">Discord</a> instead</p>
 </details>
 
 {: .box-note}
 <details><summary><b>is it support MLBB US version?</b></summary>
 <p>
-For now MLBB USA version (MLBB America) is not suported yet, please use <b>MLBB global version</b> as it is better app with fast matchmaking here a direct <a href="https://apkpure.com/id/mobile-legends-app/com.mobile.legends">download link</a>
+Now MLBB North America version is suported especially if you are using <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Meta Next</b></a> but i still recommend you to use MLBB global server as it is better app with fast matchmaking here a direct <a href="https://apkpure.com/id/mobile-legends-app/com.mobile.legends">download link</a>
 </p>
 </details>
 
@@ -66,28 +66,28 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is it Room info safe to use?</b></summary>
 <p>
-<b>Yes and No</b> the answers is depend on how you use that. <a href="https://www.patreon.com/posts/138321384?utm_campaign=postshare_creator&utm_content=android_share">Read more info about it here</a>
+<b>Yes and No</b> the answers is depend on the way you use it. <a href="https://www.patreon.com/posts/138321384?utm_campaign=postshare_creator&utm_content=android_share">Read more info about it here</a>
 </p>
 </details>
 
 {: .box-note}
 <details><summary><b>is it Auto retri available, if yes is it safe to use?</b></summary>
 <p>
-<b>Yes</b> there is an Autoretri feature but it only safe for rooted android. <a href="https://www.patreon.com/posts/140058639?utm_campaign=postshare_creator&utm_content=android_share">Read more info here</a>
+<b>Yes</b> there is an Autoretri with 100% accuracy but it only safe & effective when you are using rooted android. <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">Read more info here</a>
 </p>
 </details>
 
 {: .box-note}
 <details><summary><b> is it Unlock skin available, safe to use?</b></summary>
 <p>
-<b>Yes</b> you can unlock all skins but is only works in your device that mean enemy cant see your skins it works like skin injector. <p>Probably this feature is high banned risk better you use <a href="https://www.google.com/amp/s/apkpure.com/gs-injector/com.GS.lnJeCt0RSs/amp">external skin injector</a> its more safe to use. <a href="https://www.patreon.com/posts/141541735?utm_campaign=postshare_creator&utm_content=android_share">Read more info here</a></p>
+<b>Yes its safe to use</b> you can unlock all skins + in-game effect such as battle emot, recall, battlefield, etc, but it's only works in your device that mean enemy cant see your skins it works like skin injector. <a href="https://www.patreon.com/posts/146110132?utm_campaign=postshare_creator&utm_content=android_share">Read more info here</a>
 </p>
 </details>
 
 {: .box-note}
 <details><summary><b>is there any autocombo heroes feature, safe to use?</b></summary>
 <p>
-<b>No</b> I removed that feature as it will make your account banned for sure
+<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto aim Kimmy</b></a>
 </p>
 </details>
 
