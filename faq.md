@@ -99,7 +99,7 @@ Thats why i warned you in a first place that this mod is not immune from report 
 </details>
 
 {: .box-note}
-<details><summary><b>I got an error "json exception" when login how to fix that?</b></summary>
+<details><summary><b>I got Login Error even after Reset device, how to fix that?</b></summary>
 <p>
 This problem usually happen when you are login to modmenu using wifi or your ip has been blocked by our cloudflare, <a href="https://www.patreon.com/posts/141611654?utm_campaign=postshare_creator&utm_content=android_share">here how to fix it</a>
 </p>
