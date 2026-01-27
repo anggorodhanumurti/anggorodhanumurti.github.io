@@ -30,6 +30,13 @@ Playstyle means your behavior when using mod "dont make it too obvious" it will 
 </details>
 
 {: .box-note}
+<details><summary><b>Is this support non-root device?</b></summary>
+<p>
+<b>Yes</b> <a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">Non-rooted version</a> is the most stable and safe because it uses Virtualization it has essentials feature like maphack & ESP while <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">Rooted Version</a> has Advanced feature such as Auto retri, Auto aim etc
+</p>
+</details>
+
+{: .box-note}
 <details><summary><b>Before i buy this mod, is there any free trial?</b></summary>
 <p>
 <b>Yes</b> just <a href="mailto:dhanumurtianggoro@gmail.com">send me an email</a> for free trial request but you must follow the rules. There is no double key, when your key expired you cannot keep asking for free. <p>The free trial is made for users who want to try VIP feature before consider to purchase. If you keep asking free trial without any intention to buy i will blocked you</p>
