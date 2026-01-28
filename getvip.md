@@ -164,14 +164,13 @@ subtitle: VIP user feedbacks, pricing plans and free trial
           <h3 class="text-muted fw-light text-decoration-line-through">$20</h3>
           <h1 class="card-title pricing-card-title ">$15</h1>
             <ul class="feature-list mt-3 mb-4">
-<li>All feature unlocked</li>
-<li>VIP key for 60 days</li>
-<li>Unlock Autoretri feature</li>
+<li>Unique VIP key for 60 days (not sharing)</li>
+<li>Unlock autoretri</li>
+<li>Unlock auto aim heroes</li>
+<li>Unlock all skins</li>
 <li>Account safety guaranteed</li>
-<li>Stable mod no bug, crash/lag</li>
-<li>Latest unbanned guide</li>
 <li>No device limit</li>
-<li>Unique VIP key (not sharing)</li>
+<li>Access all of our mods</li>
 <li>Access VIP Patreon content</li>
 <li>24/7 support via Whatsapp</li>
             </ul>
@@ -191,7 +190,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
           <h1 class="card-title pricing-card-title">$5</h1>
             <ul class="feature-list mt-3 mb-4">
 <li>VIP key for 30 days (sharing)</li>
-<li>Unlock all feature</li>
+<li>Unlock autoretri</li>
 <li>No device limit</li>
 <li>Stable mod no bug, crash/lag</li>
 <li>Account safety guaranteed</li>
