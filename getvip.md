@@ -158,7 +158,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
         <span class="badge gradient-custom text-white popular-badge px-4 py-2">25% Discount</span>
         <div class="card-header py-3 text-white bg-primary border-primary">
-            <h3 class="my-0 fw-normal" id="getvipnow">60 days</h3>
+            <h3 class="my-0 fw-normal" id="getvipnow">Mythic</h3>
           </div>
           <div class="card-body">
           <h3 class="text-muted fw-light text-decoration-line-through">$20</h3>
@@ -183,7 +183,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
         <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
         <span class="badge gradient-custom text-white popular-badge px-4 py-2">50% Discount</span>
         <div class="card-header py-3 border-primary">
-            <h3 class="my-0 fw-normal">30 days</h3>
+            <h3 class="my-0 fw-normal">Epic</h3>
           </div>
           <div class="card-body">
           <h3 class="text-muted fw-light text-decoration-line-through">$10</h3>
@@ -199,6 +199,28 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>Latest unbanned guide</li>
             </ul>
             <a href="https://www.patreon.com/posts/139777550?utm_campaign=postshare_creator&utm_content=android_share"><button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button></a>
+          </div>
+        </div>
+      </div>
+<!-- Other start -->      
+      <div class="col">
+        <div class="card mb-4 rounded-3 shadow-sm text-bg-dark">
+        <div class="card-header py-3 border-primary">
+            <h3 class="my-0 fw-normal">Pay what you want</h3>
+          </div>
+          <div class="card-body">
+          <h1 class="card-title pricing-card-title">$2</h1>
+            <ul class="feature-list mt-3 mb-4">
+<li>VIP key for 7 days</li>
+<li>Download all of our mods</li>
+<li>Unlock all VIP content</li>
+<li>Reset Device Unlimited</li>
+<li>Account safety guaranteed</li>
+<li>One time payment</li>
+<li>Unlock All skin</li>
+<li>Latest unbanned guide</li>
+            </ul>
+            <a href="https://www.patreon.com/themaphack/membership"><button type="button" class="w-100 btn btn-lg btn-primary">See Other Option</button></a>
           </div>
         </div>
       </div>
