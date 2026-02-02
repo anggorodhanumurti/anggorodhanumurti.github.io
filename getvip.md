@@ -211,7 +211,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
           <div class="card-body">
           <h1 class="card-title pricing-card-title">$2</h1>
             <ul class="feature-list mt-3 mb-4">
-<li>VIP key for 7 days</li>
+<li>VIP key</li>
 <li>Download all of our mods</li>
 <li>Unlock all VIP content</li>
 <li>Reset Device Unlimited</li>
