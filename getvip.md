@@ -169,6 +169,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>Unlock auto aim heroes</li>
 <li>Unlock all skins</li>
 <li>Account safety guaranteed</li>
+<li>Latest unbanned guide</li>
 <li>No device limit</li>
 <li>Access all of our mods</li>
 <li>Access VIP Patreon content</li>

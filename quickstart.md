@@ -5,7 +5,7 @@ subtitle: Get started with Themaphack
 ---
 **Themaphack** uses apk virtualization and obfuscated code to ensure security between modmenu and game client make it **`more safe and stable without lag/crash`**
 
-* Voice chat only works with rooted android but you can use discord if your phone is not rooted.
+* Voice chat only works with [rooted mod version](https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share) but you can use discord if your phone is not rooted.
 
 * Stable and safe, i reach **`Immortal`** using this mod.
 
