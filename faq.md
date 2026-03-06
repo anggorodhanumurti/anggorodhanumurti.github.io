@@ -94,7 +94,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is there any autocombo heroes feature, safe to use?</b></summary>
 <p>
-<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto aim Kimmy</b></a>
+<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto aim Kimmy, </b></a><a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto combo Gussion</b></a> & <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto combo ultimate Ling</b></a>
 </p>
 </details>
 
