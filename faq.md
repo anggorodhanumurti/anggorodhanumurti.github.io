@@ -80,7 +80,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is it Auto retri available, if yes is it safe to use?</b></summary>
 <p>
-<b>Yes</b> there is an Autoretri with 100% accuracy but it only safe & effective when you are using rooted android. <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">Read more info here</a>
+<b>Yes</b> there is an Autoretri with 100% accuracy but it's consider high risk feature so make sure you apply our safety guide. <a href="https://www.patreon.com/posts/updates-meta-v2-141541735">Read more info here</a>
 </p>
 </details>
 
