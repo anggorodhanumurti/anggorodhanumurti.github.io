@@ -167,6 +167,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>Unique VIP key for 60 days (not sharing)</li>
 <li>Unlock autoretri</li>
 <li>Unlock auto aim heroes</li>
+<li>Unlock auto combo heroes</li>
 <li>Unlock all skins</li>
 <li>Account safety guaranteed</li>
 <li>Latest unbanned guide</li>
@@ -192,6 +193,9 @@ subtitle: VIP user feedbacks, pricing plans and free trial
             <ul class="feature-list mt-3 mb-4">
 <li>VIP key for 30 days (sharing)</li>
 <li>Unlock autoretri</li>
+<li>Unlock auto aim heroes</li>
+<li>Unlock auto combo heroes</li>
+<li>Unlock all skins</li>
 <li>No device limit</li>
 <li>Stable mod no bug, crash/lag</li>
 <li>Account safety guaranteed</li>
@@ -212,13 +216,11 @@ subtitle: VIP user feedbacks, pricing plans and free trial
           <div class="card-body">
           <h1 class="card-title pricing-card-title">$2</h1>
             <ul class="feature-list mt-3 mb-4">
-<li>VIP key</li>
-<li>Download all of our mods</li>
-<li>Unlock all VIP content</li>
+<li>VIP key for 3 days</li>
 <li>Reset Device Unlimited</li>
 <li>Account safety guaranteed</li>
 <li>One time payment</li>
-<li>Unlock All skin</li>
+<li>Unlock All skins</li>
 <li>Latest unbanned guide</li>
             </ul>
             <a href="https://www.patreon.com/themaphack/membership"><button type="button" class="w-100 btn btn-lg btn-primary">See Other Option</button></a>

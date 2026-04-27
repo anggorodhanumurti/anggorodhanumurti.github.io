@@ -101,7 +101,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>My account got banned while playing using mod too blantant, do you sell any account i can use?</b></summary>
 <p>
-Thats why i warned you in a first place that this mod is not immune from report you need to play safe next time.<p>Yes i sell mlbb account with all your specific needs such as max emblem, amount of heroes, curent rank <a href="https://www.patreon.com/posts/142071938?utm_campaign=postshare_creator&utm_content=android_share">please check this post</a> or Just chat me on <a href="mailto:dhanumurtianggoro@gmail.com">email</a></p>
+Thats why i warned you in a first place that this mod is not immune from report you need to play safe next time.<p>Yes i sell mlbb account with all your specific needs such as max emblem, amount of heroes, curent rank <a href="https://payhip.com/themaphack">please check our official shop</a> or Just chat me on <a href="mailto:dhanumurtianggoro@gmail.com">email</a></p>
 </p>
 </details>
 
