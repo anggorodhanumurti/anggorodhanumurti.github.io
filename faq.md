@@ -32,7 +32,7 @@ Playstyle means your behavior when using mod "dont make it too obvious" it will 
 {: .box-note}
 <details><summary><b>Is this support non-root device?</b></summary>
 <p>
-<b>Yes</b> <a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">Non-rooted version</a> is the most stable and safe because it uses Virtualization it has essentials feature like maphack & ESP while <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">Rooted Version</a> has Advanced feature such as Auto retri, Auto aim etc
+<b>Yes</b> <a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">Non-rooted version</a> is the most stable and safe because it uses Virtualization it has essentials feature like maphack & ESP while <a href="https://payhip.com/b/jecu0">Rooted Version</a> has Advanced feature such as Auto retri, Auto aim etc
 </p>
 </details>
 
@@ -53,13 +53,13 @@ Minimal requirement for this mod is <b>Android 10-15</b> with minimal 4gb ram <b
 {: .box-note}
 <details><summary><b>Can i use voice chat while using this mod?</b></summary>
 <p>
-<b>Yes</b> <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share">in-game voice chat is works</a> if you are using rooted android but if your device is not rooted you can use <a href="https://discord.com/">Discord</a> instead</p>
+<b>Yes</b> <a href="https://payhip.com/b/jecu0">in-game voice chat is works</a> if you are using rooted android but if your device is not rooted you can use <a href="https://discord.com/">Discord</a> instead</p>
 </details>
 
 {: .box-note}
-<details><summary><b>is it support MLBB US version?</b></summary>
+<details><summary><b>is it support MLBB for other region than Global server like America, India, Vietnam, Nigeria, South Africa, Egypt and Algeria?</b></summary>
 <p>
-Now MLBB North America version is suported especially if you are using <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Meta Next</b></a> but i still recommend you to use MLBB global server as it is better app with fast matchmaking here a direct <a href="https://apkpure.com/id/mobile-legends-app/com.mobile.legends">download link</a>
+Now this mod is suported all Regions especially if you are using <a href="https://payhip.com/b/jecu0"><b>MetaNext</b></a> but if you are using <a href="https://payhip.com/b/rtwKy"><b>MetaEvo</b></a> im recommend you to use MLBB global server as it is better app with fast matchmaking here a direct <a href="https://apkpure.com/id/mobile-legends-app/com.mobile.legends">download link</a>
 </p>
 </details>
 
@@ -80,7 +80,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is it Auto retri available, if yes is it safe to use?</b></summary>
 <p>
-<b>Yes</b> there is an Autoretri with 100% accuracy but it's consider high risk feature so make sure you apply our safety guide. <a href="https://www.patreon.com/posts/updates-meta-v2-141541735">Read more info here</a>
+<b>Yes</b> there is an Autoretri with 100% accuracy but it's consider high risk feature so make sure you apply our safety guide. <a href="https://payhip.com/b/jecu0">Read more info here</a>
 </p>
 </details>
 
@@ -94,7 +94,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is there any autocombo heroes feature, safe to use?</b></summary>
 <p>
-<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto aim Kimmy, </b></a><a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto combo Gussion</b></a> & <a href="https://www.patreon.com/posts/147799413?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto combo ultimate Ling</b></a>
+<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://payhip.com/b/jecu0"><b>Auto aim Kimmy, </b></a><a href="https://payhip.com/b/jecu0"><b>Auto combo Gussion</b></a> & <a href="https://payhip.com/b/jecu0"><b>Auto combo ultimate Ling</b></a>
 </p>
 </details>
 
