@@ -25,14 +25,14 @@ Playstyle means your behavior when using mod "dont make it too obvious" it will 
 {: .box-note}
 <details><summary><b>Can i run this mod on Emulator?</b></summary>
 <p>
-<b>Yes</b> you can i have made another mod which can run on PC using emulator like <b>Bluestack</b> or <b>Nox Player</b><p>The name is<a href="https://www.patreon.com/posts/141160305?utm_campaign=postshare_creator&utm_content=android_share"> Meta Genesis</a> but this emulator version is still on beta stage and not as safe as <a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">Android version</a></p> Read more about <a href="https://www.patreon.com/posts/141160305?utm_campaign=postshare_creator&utm_content=android_share"> emulator version here</a>
+<b>Yes</b> you can run this mod on pc through Android Emulator <b><a href="https://www.ldplayer.net/">LDPlayer V9.</a></b><p>Mod that support Emulator is<a href="https://payhip.com/b/jecu0"> <b>MetaNext</b></a></p> Read more about <a href="https://payhip.com/b/jecu0"> emulator version here</a>
 </p>
 </details>
 
 {: .box-note}
 <details><summary><b>Is this support non-root device?</b></summary>
 <p>
-<b>Yes</b> <a href="https://www.patreon.com/posts/136751555?utm_campaign=postshare_creator&utm_content=android_share">Non-rooted version</a> is the most stable and safe because it uses Virtualization it has essentials feature like maphack & ESP while <a href="https://payhip.com/b/jecu0">Rooted Version</a> has Advanced feature such as Auto retri, Auto aim etc
+<b>Yes</b> <a href="https://payhip.com/b/rtwKy">Non-rooted version</a> is the most stable and safe because it uses Virtualization it has essentials feature like maphack & ESP while <a href="https://payhip.com/b/jecu0">Rooted Version</a> has Advanced feature such as Auto retri, Auto aim etc
 </p>
 </details>
 
