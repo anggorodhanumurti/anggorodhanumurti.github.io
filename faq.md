@@ -94,7 +94,7 @@ No, if there is an update on Mod version you dont need to redownload data you ca
 {: .box-note}
 <details><summary><b>is there any autocombo heroes feature, safe to use?</b></summary>
 <p>
-<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://payhip.com/b/jecu0"><b>Auto aim Kimmy, </b></a><a href="https://payhip.com/b/jecu0"><b>Auto combo Gussion</b></a> & <a href="https://payhip.com/b/jecu0"><b>Auto combo ultimate Ling</b></a>
+<b>Yes</b> but i carefully test and only release autocombo that safe to use like <a href="https://payhip.com/b/jecu0"><b>Auto aim Kimmy, </b></a><a href="https://www.patreon.com/posts/162658151?utm_campaign=postshare_creator&utm_content=android_share"><b>Auto combo Gussion, Ling, Chou, Fanny, Paquito, Arlot also automattic item switch Immortal-Winter vice versa</b></a>
 </p>
 </details>
 
