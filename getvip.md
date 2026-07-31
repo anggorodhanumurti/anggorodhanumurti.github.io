@@ -154,17 +154,16 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <header>
 <main>
 <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-<div class="col pe-none opacity-50">
+<div class="col">
         <div class="card mb-4 rounded-3 shadow-sm border-primary text-bg-dark">
-        <span class="badge gradient-custom text-white popular-badge px-4 py-2">Flash Sale Closed</span>
+        <span class="badge gradient-custom text-white popular-badge px-4 py-2">Recommended</span>
         <div class="card-header py-3 text-white bg-primary border-primary">
-            <h3 class="my-0 fw-normal" id="getvipnow">30 Days</h3>
+            <h3 class="my-0 fw-normal" id="getvipnow">7 Days</h3>
           </div>
           <div class="card-body">
-          <h3 class="text-muted fw-light text-decoration-line-through">$10</h3>
           <h1 class="card-title pricing-card-title ">$5</h1>
             <ul class="feature-list mt-3 mb-4">
-<li>Shared VIP Key for 30 days</li>
+<li>Unique VIP Key for 7 days</li>
 <li>Access <a href="https://payhip.com/b/rtwKy"><b>Meta Evolution</b></a> Stable & Safe mod for Non-Root Android</li>
 <li>Access <a href="https://payhip.com/b/jecu0"><b>MetaNext</b></a> Safest mod with Advanced Features support both Root & Non-Root</li>
 <li>Unlock autoretri</li>
@@ -181,7 +180,7 @@ subtitle: VIP user feedbacks, pricing plans and free trial
 <li>No recurring fee</li>
 <li><b>Instant Delivery</b> you can access Mod file, Installation guide alongside with VIP Key automatically after you've made payment</li>
           </ul>
-            <a href="#"><button type="button" class="w-100 btn btn-lg btn-primary disabled" tabindex="-1" aria-disabled="true" disabled>Get started</button></a>
+            <a href="https://payhip.com/b/rtwKy"><button type="button" class="w-100 btn btn-lg btn-primary">Get started</button></a>
           </div>
         </div>
       </div>
