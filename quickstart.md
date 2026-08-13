@@ -11,6 +11,8 @@ subtitle: Get started with Themaphack
 
 * As long as you play safe without being reported your account will 100% safe no banned.
 
+* Visit **[`Mods Banned Status`](https://www.patreon.com/posts/165695589?utm_campaign=postshare_creator&utm_content=android_share)** before install our mod. [`This page`](https://www.patreon.com/posts/165695589?utm_campaign=postshare_creator&utm_content=android_share) help you decide what the safest mod available here
+
 ![screenshot](/assets/img/tmh_vip.jpg)
 <br>
 ## Installation & usage
